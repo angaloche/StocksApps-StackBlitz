@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { StocksService, StockInterface } from '../../services/stocks.service';
+import { StocksService, StockInterface } from "../../services/stocks.service";
 @Component({
 selector: 'dashboard',
 templateUrl: './dashboard.component.html',
